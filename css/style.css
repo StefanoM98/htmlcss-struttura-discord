@@ -103,3 +103,26 @@ a {
     width: 700px;
     height: 500px;
 }
+/* FOOTER */
+
+.first-footer{
+    background-color: #23272A;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.coral-column{
+    width: 250px;
+    background-color: #F08080;
+    margin: 10px 0;
+    border: 1px dashed black;
+}
+.aqua-column{
+    width: 150px;
+    background-color: #20B2AA;
+    margin: 10px 0;
+    border: 1px dashed white;
+}
+
