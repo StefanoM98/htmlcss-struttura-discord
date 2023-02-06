@@ -6,7 +6,7 @@
 }
 
 /* HEADER */
-header{
+.header-section{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -67,5 +67,39 @@ a {
     background-color: #EE82EE;
     width: 600px;
     height: 300px;
-    
+}
+
+/* MAIN */
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.squareblue{
+    background-color: #1E90FF;
+    width: 400px;
+    height: 350px;
+}
+
+.squarepink{
+    background-color: #FFC0CB;
+    width: 300px;
+    height: 350px;
+}
+
+.main-container-middle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    background-color: #D3D3D3;
+    flex-direction: row-reverse;
+}
+
+.squaregreen{
+    background-color: #228B22;
+    width: 700px;
+    height: 500px;
 }
