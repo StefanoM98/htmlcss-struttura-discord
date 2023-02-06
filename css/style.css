@@ -52,3 +52,20 @@ a {
     width: 25%;
     text-align: right;
 }
+
+/* HEADER CONTAINER */
+
+.header-container{
+    background-color: #00008B;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rectangle{
+    background-color: #EE82EE;
+    width: 600px;
+    height: 300px;
+    
+}
